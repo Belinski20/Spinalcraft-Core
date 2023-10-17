@@ -1,0 +1,4 @@
+name: SpinalcraftCore
+version: '${project.version}'
+main: com.belinski20.spinalcraftcore.SpinalcraftCore
+api-version: '1.20'

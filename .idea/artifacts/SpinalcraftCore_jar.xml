@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SpinalcraftCore:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SpinalcraftCore_jar</output-path>
+    <root id="archive" name="SpinalcraftCore.jar">
+      <element id="module-output" name="SpinalcraftCore" />
+    </root>
+  </artifact>
+</component>
